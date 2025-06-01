@@ -1,2 +1,2 @@
 # Events_website
-
+I made this single page responsive website using basic HTML and CSS.I have used flexbox to arrange all the event cards and used media queries to make it repsonsive for dektop. mobile and tablets.
